@@ -1,9 +1,13 @@
 plugins {
+    application
     id("java")
 }
 
 group = "home.code"
 version = "1.0-SNAPSHOT"
+
+
+application { mainClass.set("home.code.Main") }
 
 repositories {
     mavenCentral()
