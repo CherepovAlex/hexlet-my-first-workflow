@@ -1,4 +1,4 @@
 say-hello:
-	./src/main/java/home/code.Main
+	./build/install/hexlet-my-first-workflow/bin/hexlet-my-first-workflow
 run-dist:
 	./build/install/hexlet-my-first-workflow/bin/hexlet-my-first-workflow
